@@ -11,7 +11,7 @@ For the *Metal* samples you need *macOS 10.14* with *XCode 10* or later and an *
 
 ## PDF
 
-You can check the original paper [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf), I won't touch it anymore.
+You can check the original paper [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf).
 ## License
 
 The code is provided under the BSD license.
